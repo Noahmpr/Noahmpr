@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>🔭 I`m a young professional born on July 3, 2000, who has recently completed his Bachelor's degree in Computer<br>Engineering with a focus on Software. As a highly skilled and knowledgeable individual, I have developed expertise in<br>various programming languages and tools, including Javascript, Node.js, MongoDB, TypeScript, React, Next.js, PWA, and TWA, converting React<br>Web apps for iOS and Android, Tailwind, Redux, Context, Git, Linux. With an impressive academic background and hands-on experience in the field, I am eager to continue my professional journey and make meaningful contributions to the<br> <br>🌱seedling I’m currently learning<br>💬 Ask me about
 
 
@@ -17,5 +16,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amirhosseinmpr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
