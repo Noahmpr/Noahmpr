@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 I`m a young professional born on July 3, 2000, who has recently completed his Bachelor's degree in Computer<br>Engineering with a focus on Software. As a highly skilled and knowledgeable individual, I have developed expertise in<br>various programming languages and tools, including Javascript, Node.js, MongoDB, TypeScript, React, Next.js, PWA, and TWA, converting React<br>Web apps for iOS and Android, Tailwind, Redux, Context, Git, Linux. With an impressive academic background and hands-on experience in the field, I am eager to continue my professional journey and make meaningful contributions <br> <br>🌱seedling I’m currently learning<br>💬 Ask me about
+### 🔭 I`m a young professional born on July 3, 2000, who has recently completed his Bachelor's degree in Computer<br>Engineering with a focus on Software. As a highly skilled and knowledgeable individual, I have developed expertise in <br>🌱seedling I’m currently learning<br>💬 Ask me about
 
 
 ## 🌐 Socials:
