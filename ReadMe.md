@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 I`m a young professional born on July 3, 2000, who has recently completed his Bachelor's degree in Computer<br>Engineering with a focus on Software.<br>🌱seedling I’m currently learning<br>💬 Ask me about
+### 🔭`🧑‍💻👾🤖☠️🌲🌳🏞️🌅🌄🏜️🌫️⚡🌠✨🌓🐳🦁🏕️💺🗺️🧳🪙💎🗃️⌚🎓🕉️💱☢️
 
 
 ## 🌐 Socials:
